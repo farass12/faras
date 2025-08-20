@@ -42,7 +42,7 @@ Edit `config.js` to put up your details
 module.exports = {
   siteTitle: 'Gatsby Starter readonly', // <title>
   ...
-  authorName: 'Anubhav Srivastava',
+  authorName: 'Faras Adilah',
   heading: 'Web Developer',
   // social
   socialLinks: [
@@ -96,3 +96,4 @@ Please create issue or open PR request for contribution.
 [![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](LICENSE)
 
 refer `LICENSE` file in this repository.
+# faras
