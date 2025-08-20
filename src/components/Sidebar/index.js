@@ -16,7 +16,7 @@ export default function SideBar({ sections = [] }) {
       />
       <section id="header">
         <Header
-          avatar={pic}
+          kucing={pic}
           title={config.authorName}
           heading={config.heading}
         />
